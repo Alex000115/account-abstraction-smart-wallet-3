@@ -1,0 +1,10 @@
+{
+  "name": "account-abstraction-wallet",
+  "version": "1.0.0",
+  "description": "ERC-4337 Smart Account Implementation",
+  "dependencies": {
+    "@account-abstraction/contracts": "^0.6.0",
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
